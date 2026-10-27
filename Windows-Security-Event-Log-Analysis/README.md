@@ -341,3 +341,31 @@ Screenshots are stored in the `screenshots` directory.
 **Completed — Windows Security Event Log Analysis**
 
 **Next Learning Objective:** Explore Windows authentication log analysis using a Security Information and Event Management (SIEM) platform such as Splunk.
+
+
+
+## Investigation Screenshots
+
+### Failed Logon Events
+![Failed Logon Events](screenshots/01-failed-logon-events.png)
+
+### SYSTEM Service Logon
+![SYSTEM Service Logon](screenshots/02-system-service-logon.png)
+
+### SYSTEM Account Details
+![SYSTEM Account Details](screenshots/03-system-new-logon.png)
+
+### Failed Logon Account
+![Failed Logon Account](screenshots/04-failed-logon-account.png)
+
+### Successful Logon Timeline
+![Successful Logon Timeline](screenshots/05-successful-logon-timeline.png)
+
+### Interactive Logon Details
+![Interactive Logon Details](screenshots/06-interactive-logon-details.png)
+
+### Successful User Logon
+![Successful User Logon](screenshots/07-successful-user-logon.png)
+
+### Filtered Interactive Logons
+![Filtered Interactive Logons](screenshots/08-filtered-interactive-logons.png)
